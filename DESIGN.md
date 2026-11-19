@@ -128,7 +128,7 @@ components: [App Bar, Button, Input, Topic Chip, Privacy Notice, Tarot Card Back
 | **Body Bold** | Bold | 16 / 24 | L 버튼 |
 | **Label** | Medium | 15 / 22 | M 버튼, 주제 칩, 토스트 |
 | **Caption** | Regular | 13 / 19 | 개인정보 안내, 오락용 안내, 도움말 |
-| **Caption Bold** | Bold | 13 / 19 | 입력 라벨, 결과 카드 제목 "지민님의 타로 · 커리어" |
+| **Caption Bold** | Bold | 13 / 19 | 입력 라벨, 결과 카드 제목 "준하님의 타로 · 커리어" |
 
 - 해석 본문은 **Body 가운데 정렬, 3줄 · 90자 이내**입니다. 줄 사이 간격 2px.
 - 선택된 주제 칩 글자는 Label 대신 **Bold 15 / 22**입니다.
@@ -294,7 +294,7 @@ components: [App Bar, Button, Input, Topic Chip, Privacy Notice, Tarot Card Back
 
 335 × 534, 흰 배경, 모서리 24, 안쪽 위아래 28 · 좌우 24, 세로 간격 16, 가운데 정렬.
 
-1. 제목 "지민님의 타로 · 커리어" — Caption Bold, `text/secondary`
+1. 제목 "준하님의 타로 · 커리어" — Caption Bold, `text/secondary`
 2. 카드 앞면 160 × 268
 3. Meta "XIX 태양 · 사자자리" — Headline, **`accent-strong`** [보완]
 4. 해석 3줄 — Body 가운데, 줄 간격 2. 줄1 = 카드 × 주제(이름 포함), 줄2 = 별자리, 줄3 = 전공 계열(전공이 없거나 못 맞추면 숨김: `Show Major Line` 끔)
